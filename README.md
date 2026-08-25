@@ -4,7 +4,6 @@
 
 [![ci](https://github.com/go-dimail/dimail/actions/workflows/ci.yml/badge.svg)](https://github.com/go-dimail/dimail/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-dimail/dimail.svg)](https://pkg.go.dev/github.com/go-dimail/dimail)
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-dimail/dimail)](https://goreportcard.com/report/github.com/go-dimail/dimail)
 
 A pure-Go (CGO-free) client for the **Dimail API** — the mail-hosting
 management API of the French government's *La Suite numérique* platform
